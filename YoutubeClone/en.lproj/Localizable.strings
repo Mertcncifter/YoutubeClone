@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  YoutubeClone
+
+  Created by mert can çifter on 5.03.2023.
+  
+*/
+
+"home" = "Home";
+"shorts" = "Shorts";
+"bookcase" = "Library";
+"saveWatchLater" = "Save to watch later";
+"savePlayList" = "Save to playlist";
+"dowloandVideo" = "Videoyu indir";
+"share" = "Share";
+"notInterested" = "Not Interested";
+"suggestChannel" = "Don't recommend channel";
+"report" = "Report";

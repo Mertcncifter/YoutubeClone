@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  YoutubeClone
+
+  Created by mert can çifter on 5.03.2023.
+  
+*/
+
+"home" = "Anasayfa";
+"shorts" = "Shorts";
+"bookcase" = "Kitaplık";
+"saveWatchLater" = "Daha sonra izle'ye kaydet";
+"savePlayList" = "Oynatma listesine kaydet";
+"dowloandVideo" = "Videoyu indir";
+"share" = "Paylaş";
+"notInterested" = "İlgilenmiyorum";
+"suggestChannel" = "Kanalı Önerme";
+"report" = "Bildir";
+ 
